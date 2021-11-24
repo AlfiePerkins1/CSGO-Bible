@@ -22,7 +22,7 @@
 
 [Rotates](#Rotates)
 
-
+[Glossary](#Glossary)
 
 
 # Introduction
@@ -111,8 +111,11 @@ As well as this I will be paying attention to team based strats and calling whic
     - Friendly fire and money is disabled
     - Weapons are not carried over if a player stays alive for a round
   - Flying Scoutsman
+    - *Description coming soon*
   - Danger zone
+    - *Description coming soon*
   - Demolition
+    - *Description coming soon*
 
 ## Matchmaking Services
 
@@ -336,4 +339,52 @@ As well as this I will be paying attention to team based strats and calling whic
 # Rotates
 
 
+
+# Glossary
+
+## A
+
+A
+> A bomb site on defusal maps
+
+A1S
+> Shorthand for the M4A1-S
+
+A4
+> Shorthand for the M4A4
+
+AC
+> Anticheat, this is a program used to detect cheating, can be third party (Faceit AC, EasyAC) or built in (Valve AntiCheat (VAC)) 
+ 
+Ace
+> When a player gets all 5 enemy kills in a single round
+
+ADR 
+> Average Damage per Round, a numeric value that shows how much damage a player does on average each round(higher is better)
+ 
+Aimbot
+> A type of cheating which aims and shoots for the user, using aimbot will get you VAC banned
+
+Aimpunch
+> When a players screen shakes from being hit (but not killed) with no/incorrect armour
+
+Anchor
+> A dedicated CT player for each bomb site who remains on that site until a full execute is called by his/her teamates
+
+Angle
+> Specific line of sight/viewpoint held by either side player.
+
+Anti-Eco
+> A round where the enemys are eco'ing and have little/no utility and weaponary
+
+Anti Flash
+> Where typically 1 player faces the wrong way in order to not be blinded by a flashbang allowing them to effectively trade
+
+Anti Strat
+> Where the IGL of a team calls a strategy that directly counters the enemies strategy either due to information gained, or a gamble
+
+Awper
+> Player who in a team based enviroment has the role of using the AWP
+
+## B
 
