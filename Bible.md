@@ -1,5 +1,7 @@
 # Contents 
 
+[Introduction](#Introduction)
+
 [Economy](#Economy)
 
 [Tactics Beginner to Intermediate](#Tactics-Beginner-to-Intermediate)
@@ -8,6 +10,16 @@
 
 [Tactics Advanced](#Tactics-Advanced)
 
+
+# Introduction
+
+## What is CSGO
+
+## Rules
+
+## Game modes
+
+## Matchmaking Services
 
 
 # Economy 
@@ -20,6 +32,7 @@
 ## CT 
 
 - Due to the nature of CSGO the CT's always tend to be in a worse economic situation than the T's due to the game favouring them when economy is even (T's have to push into the CT's)
+
 
 ### 	Pistol
 
@@ -76,6 +89,9 @@
 ​	**Pistol**
 
   - Because Glocks are superior to the USP when up close and moving T's tend to rush/contact B therefore having 3 B on pistol round is standard, as well as 1 jiggle peeking mid and one playing retake on A(*CT/Triple or falling back to con from stairs*).
+  -  B site setup:
+  - The aim is to stay as far away from the glocks as possible whilst playing headshot angles   	(*angles where only your head can be seen*)
+  - Examples of good positions can be seen by the dots on the map of B site with the line of sight 	      indicated by the red lines <img src="/Images/MirageMap1.png" width="200" height="200" />
 
     
 
@@ -149,9 +165,9 @@
 
 ​	**Pistol**
 
-  - Adding on to the 
 
-    
+
+​    
 
 ​	**Force Buys**
 
