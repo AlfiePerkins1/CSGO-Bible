@@ -2,9 +2,9 @@
 
 [Economy](#Economy)
 
-[Tactics Beginner to Intermediate](#Tactics-Beginner to Intermediate)
+[Tactics Beginner to Intermediate](#Tactics-Beginner-to-Intermediate)
 
-[Tactics Intermediate to Advanced](#Tactics-Intermediate to Advanced)
+[Tactics Intermediate to Advanced](#Tactics-Intermediate-to-Advanced)
 
 [Tactics Advanced+](#Tactics-Advanced+)
 
