@@ -2,7 +2,7 @@
 
 **N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated.
 
-**Feedback can be made by starting a *New Issue* on the GitHub page or by messaging me on discord**
+**Feedback can be made by starting a [*New Issue*](https://github.com/AlfiePerkins1/CSGO-Bible/issues/new/choose) on the GitHub page or by messaging me on discord**
 
 # Contents 
 
