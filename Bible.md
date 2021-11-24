@@ -16,21 +16,32 @@
 
 [Tactics Advanced](#Tactics-Advanced)
 
+[Practicing & Warmup](#Practicing)
+
 [Loadouts](#Loadouts)
 
-[Practicing & Warmup](#Practicing)
+[Rotates](#Rotates)
+
+
 
 
 # Introduction
 
+## Pre Thoughts
+
+Throughout this guide i'll be discussing as much about Counter-Strike Global Offensive as possible, some ideas/theories will be directed to more specific skill levels. For this guide I will be using Beginner-Intermediate-Advanced. These levels will roughly correspond to a Competitive Level
+- Beginner = Silver 1 - Gold Nova Master
+- Intermediate = Master Guardian 1 - Legendary Eagle
+- Advanced = Legendary Eagle Master - Global Elite
+
+As well as this I will be paying attention to team based strats and calling which is suitable mainly for the Advanced category and above
+
+<!--Maybe AdvancedPlus aswell-->
+
+
 ## What is CSGO
 
 - Counter-Strike(CS) Global Offensive(CSGO) is the latest game in the Counter-Strike series produced by Valve it follows on from CS Source and before that CS 1.6
-
-## Rules
-
-- The rules of CSGO vary depending on what gamemode] is being played, however the following basic rules apply
-  - 
 
 ## Game modes
 
@@ -84,15 +95,24 @@
     - Quick respawns are enabled
     - The top players (Players who are closest to the golden knife) from each side glow through walls, adding an extra layer of difficulty 
     - Knifing someone (not with golden knife) will take them back to their previous gun
-  - Demolition
   - Wingman
     - Similar to competitive however its 2v2 making it ideal to play with a friend
     - Operates with the MR16 setup
     - Each round lasts 1min 30seconds meaning games don't become too long
     - Wingman ranks are seperate from competitive ranks
-  - Flying scoutsman
   - Retakes
+    - 3 players on Terrorists(T) team, 4 on Counter Terrorists(CT) team
+    - First team to 8 rounds wins the match
+    - The round takes place with the bomb already planted
+    - At the beginning of the round, each player picks a "loudout card" which decides what weapon and utility they get.
+    - CT's spawn at set random locations surround the bombsite and T's spawn on the bombsite
+    - The CT's get told which bombsite the bomb is planted at
+    - Players cannot spectate enemey team when dead
+    - Friendly fire and money is disabled
+    - Weapons are not carried over if a player stays alive for a round
+  - Flying Scoutsman
   - Danger zone
+  - Demolition
 
 ## Matchmaking Services
 
