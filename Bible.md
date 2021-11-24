@@ -2,9 +2,9 @@
 
 [Economy](#Economy)
 
-[Tactics Beginner/Intermediate](#Tactics-Beginner/Intermediate:)
+[Tactics Beginner to Intermediate](#Tactics-Beginner to Intermediate)
 
-[Tactics Intermediate/Advanced](#Tactics-Intermediate/Advanced)
+[Tactics Intermediate to Advanced](#Tactics-Intermediate to Advanced)
 
 [Tactics Advanced+](#Tactics-Advanced+)
 
@@ -33,7 +33,7 @@
 
 
 
-# Tactics Beginner/Intermediate: 
+# Tactics Beginner to Intermediate 
 
 ## Basic T side strategies & setups
 
@@ -55,7 +55,7 @@
 
 ### Dust 2
 
-# Tactics Intermediate/Advanced
+# Tactics Intermediate to Advanced
 
 ## Calling on the fly
 
