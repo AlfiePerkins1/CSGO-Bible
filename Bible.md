@@ -8,6 +8,8 @@
 
 [Introduction](#Introduction)
 
+[Settings](#Settings)
+
 [Economy](#Economy)
 
 [Tactics Beginner to Intermediate](#Tactics-Beginner-to-Intermediate)
@@ -125,6 +127,8 @@ As well as this I will be paying attention to team based strats and calling whic
 ## Prime
 
 ## CSGO Level
+
+# Settings
 
 # Economy 
 
@@ -387,4 +391,26 @@ Awper
 > Player who in a team based enviroment has the role of using the AWP
 
 ## B
+
+B
+> The B bombsite on defusal maps
+
+Bait 
+> To get a teamate killed in order to favour yourself, or to lure enemies away from a bomb site before executing
+
+BHOP
+> "Bunny Hopping" a skill movement where the player times their jump with the exact moment they land giving them a short speed boost
+
+Boost
+> Where 1 or more players standing on top of each other to reach angles that are impossible with just one person (Only when team collission is on)
+
+Boosted
+> Refers to a play who is undeserving of their rank in competitive as they have played with players of a much higher rank and won because of this
+
+Burst
+> a. Firing mode which the player shoots 3 bullets at a time(only avaliable on the glock and famas)
+> b. Firing technique where the player shoots a few bullets in short bursts on a semi/fully automatic gun
+
+Buy round
+> Where a team has enough money to purchase everything they need including utility
 
