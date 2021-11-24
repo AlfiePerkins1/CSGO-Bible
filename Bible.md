@@ -12,7 +12,7 @@
 
 [Loadouts](#Loadouts)
 
-[Praciticing & Warmup](#Practicing)
+[Practicing & Warmup](#Practicing)
 
 
 # Introduction
@@ -51,7 +51,7 @@
 
 
   - Casual
-    - Similiar to Competitive with minor changes
+    - Similar to Competitive with minor changes
     - Team size becomes 10 player per team
     - Economy system changes in order to make a full buy possible each round to maximise play time
     - Collisions and friendly fire is disabled
@@ -63,7 +63,7 @@
 
   - Deathmatch (DM)
     - Primary method of practicing & warming up (*other methods are more recommended, this will be discussed further on*) due to its high paced nature to help sharpen aiming skills
-    - Can either be T or CT side, players can switch if a spot becomes avaliable
+    - Can either be T or CT side, players can switch if a spot becomes available
     - Weapons are limited to their correct side (I.E AK on T side, M4 on CT side)
     - Each kill gives you points which moves you further up the in game leaderboard 
     - For a short period certain weapons grant bonus points, this is good for practicing with weapons you may rarely use. However it may lead to players using obselete weapons as well as weapons in incorrect scenarios
@@ -72,7 +72,7 @@
 
 
   - Arms Race
-    - Similiar to Gun Game from Call of duty
+    - Similar to Gun Game from Call of duty
     - Each player starts with a pistol and every 2 kills grants them an upgrade to a better gun 
     - The final stage is a golden knife, if the player reaches the golden knife and gets a kill with it they win the game
     - Quick respawns are enabled
@@ -80,13 +80,13 @@
     - Knifing someone (not with golden knife) will take them back to their previous gun
   - Demolition
   - Wingman
-    - Similar to compettive however its 2v2 making it ideal to play with a friend
+    - Similar to competitive however its 2v2 making it ideal to play with a friend
     - Operates with the MR16 setup
     - Each round lasts 1min 30seconds meaning games don't become too long
     - Wingman ranks are seperate from competitive ranks
   - Flying scoutsman
   - Retakes
-  - Dangerzone
+  - Danger zone
 
 ## Matchmaking Services
 
@@ -287,7 +287,7 @@
 
 # Tactics Advanced
 
-## Antistratting
+## Anti-stratting
 
 
 # Practicing
@@ -300,12 +300,14 @@
 
 ## What is aim
 
-## Gamesense
+## Game sense
 
 ## Utility
 
 
 # Loadouts
+
+# Rotates
 
 
 
