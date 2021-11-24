@@ -1,3 +1,7 @@
+
+
+**N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated.
+
 # Contents 
 
 [Introduction](#Introduction)
