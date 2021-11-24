@@ -19,7 +19,7 @@
 
 ## Rules
 
-- The rules of CSGO vary depending on what (gamemode)[##Game-modes] is being played,     however the following basic rules apply
+- The rules of CSGO vary depending on what (gamemode)[#Game-modes] is being played,     however the following basic rules apply
   - 
 
 ## Game modes
