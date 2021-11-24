@@ -1,6 +1,14 @@
 # Contents 
 
-[toc]
+[Economy](#Economy)
+
+[Tactics Beginner/Intermediate](#Tactics Beginner/Intermediate:)
+
+[Tactics Intermediate/Advanced](#Tactics Intermediate/Advanced)
+
+[Tactics Advanced+](#Tactics Advanced+)
+
+
 
 # Economy 
 
@@ -20,4 +28,42 @@
 ## T
 
 ### Pistol
+
+
+
+# Tactics Beginner/Intermediate: 
+
+## Basic T side strategies & setups
+
+### Mirage
+
+### Overpass
+
+### Inferno
+
+### Dust 2
+
+##Basic CT side strategies & setups
+
+### Mirage
+
+### Overpass
+
+### Inferno
+
+### Dust 2
+
+# Tactics Intermediate/Advanced
+
+## Calling on the fly
+
+# Tactics Advanced+
+
+## Antistratting
+
+
+
+
+
+
 
