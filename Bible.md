@@ -75,8 +75,9 @@
 
 ​	**Pistol**
 
-    - Because Glocks are superior to the USP when up close and moving T's tend to rush/contact B therefore having 3 B on pistol round is standard, as well as 1 jiggle peeking mid and one playing retake on A(*CT/Triple or falling back to con from stairs*).
-    - However
+  - Because Glocks are superior to the USP when up close and moving T's tend to rush/contact B therefore having 3 B on pistol round is standard, as well as 1 jiggle peeking mid and one playing retake on A(*CT/Triple or falling back to con from stairs*).
+
+    
 
 ​	**Force Buys**
 
@@ -108,7 +109,83 @@
 
 # Tactics Intermediate to Advanced
 
+## Basic T side strategies & setups
+
+### Mirage
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Overpass
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Inferno
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Dust 2
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+## Basic CT side strategies & setups
+
+### Mirage
+
+​	**Pistol**
+
+  - Adding on to the 
+
+    
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Overpass
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Inferno
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+### Dust 2
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
+
+
 ## Calling on the fly
+
+
 
 # Tactics Advanced
 
