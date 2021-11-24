@@ -19,14 +19,14 @@
 
 ## Rules
 
-- The rules of CSGO vary depending on what (gamemode)[#Game-modes] is being played,     however the following basic rules apply
+- The rules of CSGO vary depending on what gamemode] is being played, however the following basic rules apply
   - 
 
 ## Game modes
 
 - CSGO has 9 official gamemodes [Reference](https://www.metabomb.net/csgo/gameplay-guides/csgo-game-modes-guide "Reference"):
   - Competitive 
-    - The mode played in proffesional CSGO, this the mode people first think of when thinking about CSGO
+    - The mode played in proffesional CSGO, this the mode people first think of when thinking about CSGO as it is the gamemode that gives players ranks
     - Two teams of 5 players in a MR30 (*maxround 30, I.E the first team to 16 rounds wins and the game is tied at 15-15*)
     - After 15 rounds (half way through), both teams switch side (T -> CT, CT -> T)
     - Each round lasts 1 minute 55 seconds, however this is reduced/increased to 40 seconds when the T's plant the bomb
@@ -37,8 +37,21 @@
     - In order for the T's to win the round they must either
       1. Plant and exploded the bomb on either site(*A or B*)
       2. Kill all CT's before time expires
+    - At the end of the game all players ranks in the game will become visible
+    - All players must be Private Level 2 to play Competitive 
+    - Friendly fire & collisions are enabled
+    - Players can only spectate their teamates when they die
   - Casual
+    - Similiar to Competitive with minor changes
+    - Team size becomes 10 player per team
+    - Economy system changes in order to make a full buy possible each round to maximise play time
+    - Collisions and friendly fire is disabled
+    - The game ends after one team reaches 8 rounds
+    - The number of grenades you can purchase is reduced 
+    - Players can spectate **everyone** after they die
+    - Casual games are losely based off your Competitive rank however not exactly
   - Deathmatch (DM)
+    - 
   - Arms Race
   - Demolition
   - Wingman
@@ -48,6 +61,12 @@
 
 ## Matchmaking Services
 
+## Ranking system
+<!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked -->
+
+## Prime
+
+## CSGO Level
 
 # Economy 
 
