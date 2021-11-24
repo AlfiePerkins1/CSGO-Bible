@@ -33,6 +33,7 @@
 
   - Competitive 
     - The mode played in proffesional CSGO, this the mode people first think of when thinking about CSGO as it is the gamemode that gives players ranks
+    - This is the only mode that affects your Competitive rank
     - Two teams of 5 players in a MR30 (*maxround 30, I.E the first team to 16 rounds wins and the game is tied at 15-15*)
     - After 15 rounds (half way through), both teams switch side (T -> CT, CT -> T)
     - Each round lasts 1 minute 55 seconds, however this is reduced/increased to 40 seconds when the T's plant the bomb
@@ -64,9 +65,25 @@
     - Primary method of practicing & warming up (*other methods are more recommended, this will be discussed further on*) due to its high paced nature to help sharpen aiming skills
     - Can either be T or CT side, players can switch if a spot becomes avaliable
     - Weapons are limited to their correct side (I.E AK on T side, M4 on CT side)
+    - Each kill gives you points which moves you further up the in game leaderboard 
+    - For a short period certain weapons grant bonus points, this is good for practicing with weapons you may rarely use. However it may lead to players using obselete weapons as well as weapons in incorrect scenarios
+    - Respawns are quick and grant respawn immunity(can't be killed immediately as you spawn)
+    - Spawns are in random locations spread across the map putting you into the action faster
+
+
   - Arms Race
+    - Similiar to Gun Game from Call of duty
+    - Each player starts with a pistol and every 2 kills grants them an upgrade to a better gun 
+    - The final stage is a golden knife, if the player reaches the golden knife and gets a kill with it they win the game
+    - Quick respawns are enabled
+    - The top players (Players who are closest to the golden knife) from each side glow through walls, adding an extra layer of difficulty 
+    - Knifing someone (not with golden knife) will take them back to their previous gun
   - Demolition
   - Wingman
+    - Similar to compettive however its 2v2 making it ideal to play with a friend
+    - Operates with the MR16 setup
+    - Each round lasts 1min 30seconds meaning games don't become too long
+    - Wingman ranks are seperate from competitive ranks
   - Flying scoutsman
   - Retakes
   - Dangerzone
@@ -74,7 +91,7 @@
 ## Matchmaking Services
 
 ## Ranking system
-<!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked -->
+<!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked, different ranking for DZ, Wingman, Comp) -->
 
 ## Prime
 
