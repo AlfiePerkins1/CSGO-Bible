@@ -10,6 +10,10 @@
 
 [Tactics Advanced](#Tactics-Advanced)
 
+[Loadouts](#Loadouts)
+
+[Praciticing & Warmup](#Practicing)
+
 
 # Introduction
 
@@ -25,6 +29,8 @@
 ## Game modes
 
 - CSGO has 9 official gamemodes [Reference](https://www.metabomb.net/csgo/gameplay-guides/csgo-game-modes-guide "Reference"):
+
+
   - Competitive 
     - The mode played in proffesional CSGO, this the mode people first think of when thinking about CSGO as it is the gamemode that gives players ranks
     - Two teams of 5 players in a MR30 (*maxround 30, I.E the first team to 16 rounds wins and the game is tied at 15-15*)
@@ -41,6 +47,8 @@
     - All players must be Private Level 2 to play Competitive 
     - Friendly fire & collisions are enabled
     - Players can only spectate their teamates when they die
+
+
   - Casual
     - Similiar to Competitive with minor changes
     - Team size becomes 10 player per team
@@ -50,8 +58,12 @@
     - The number of grenades you can purchase is reduced 
     - Players can spectate **everyone** after they die
     - Casual games are losely based off your Competitive rank however not exactly
+
+
   - Deathmatch (DM)
-    - 
+    - Primary method of practicing & warming up (*other methods are more recommended, this will be discussed further on*) due to its high paced nature to help sharpen aiming skills
+    - Can either be T or CT side, players can switch if a spot becomes avaliable
+    - Weapons are limited to their correct side (I.E AK on T side, M4 on CT side)
   - Arms Race
   - Demolition
   - Wingman
@@ -261,8 +273,22 @@
 ## Antistratting
 
 
+# Practicing
+
+## Introduction
+
+## Warming Up
+
+## Practicing
+
+## What is aim
+
+## Gamesense
+
+## Utility
 
 
+# Loadouts
 
 
 
