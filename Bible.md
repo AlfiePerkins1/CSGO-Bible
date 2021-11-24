@@ -6,7 +6,7 @@
 
 [Tactics Intermediate to Advanced](#Tactics-Intermediate-to-Advanced)
 
-[Tactics Advanced+](#Tactics-Advanced+)
+[Tactics Advanced](#Tactics-Advanced)
 
 
 
@@ -39,27 +39,75 @@
 
 ### Mirage
 
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
 ### Overpass
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
 
 ### Inferno
 
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
 ### Dust 2
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
 
 ## Basic CT side strategies & setups
 
 ### Mirage
 
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
 ### Overpass
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
 
 ### Inferno
 
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
+
 ### Dust 2
+
+​	**Pistol**
+
+​	**Force Buys**
+
+​	**Gun Rounds**
 
 # Tactics Intermediate to Advanced
 
 ## Calling on the fly
 
-# Tactics Advanced+
+# Tactics Advanced
 
 ## Antistratting
 
