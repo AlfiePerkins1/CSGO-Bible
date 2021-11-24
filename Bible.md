@@ -15,9 +15,36 @@
 
 ## What is CSGO
 
+- Counterstrike(CS) Global Offensive(CSGO) is the latest game in the Counterstrike series produced by Valve it follows on from CS Source and before that CS 1.6
+
 ## Rules
 
+- The rules of CSGO vary depending on what (gamemode)[##Game-modes] is being played,     however the following basic rules apply
+  - 
+
 ## Game modes
+
+- CSGO has 9 official gamemodes [Reference](https://www.metabomb.net/csgo/gameplay-guides/csgo-game-modes-guide "Reference"):
+  - Competitive 
+    - The mode played in proffesional CSGO, this the mode people first think of when thinking about CSGO
+    - Two teams of 5 players in a MR30 (*maxround 30, I.E the first team to 16 rounds wins and the game is tied at 15-15*)
+    - After 15 rounds (half way through), both teams switch side (T -> CT, CT -> T)
+    - Each round lasts 1 minute 55 seconds, however this is reduced/increased to 40 seconds when the T's plant the bomb
+    - In order for CT's to win the round they must either 
+      1. Prevent the T's planting the bomb within the 1min55seconds
+      2. Defuse the bomb after the T's have planted the bomb(*10seconds without a kit, 5 seconds with a kit*)
+      3. Kill all T's before time expires
+    - In order for the T's to win the round they must either
+      1. Plant and exploded the bomb on either site(*A or B*)
+      2. Kill all CT's before time expires
+  - Casual
+  - Deathmatch (DM)
+  - Arms Race
+  - Demolition
+  - Wingman
+  - Flying scoutsman
+  - Retakes
+  - Dangerzone
 
 ## Matchmaking Services
 
@@ -89,11 +116,18 @@
 ​	**Pistol**
 
   - Because Glocks are superior to the USP when up close and moving T's tend to rush/contact B therefore having 3 B on pistol round is standard, as well as 1 jiggle peeking mid and one playing retake on A(*CT/Triple or falling back to con from stairs*).
-  -  B site setup:
-  - The aim is to stay as far away from the glocks as possible whilst playing headshot angles   	(*angles where only your head can be seen*)
-  - Examples of good positions can be seen by the dots on the map of B site with the line of sight 	      indicated by the red lines <img src="/Images/MirageMap1.png" width="200" height="200" />
 
-    
+  - B site setup:
+
+  - The aim is to stay as far away from the Glocks as possible, whilst playing headshot angles (*angles where only your head can be seen*)
+
+  - Examples of good positions can be seen by the dots on the map of B site with the line of sight indicated by the red lines
+
+  -  <img src="/Images/MirageMap1.png" width="200" height="200" />
+
+
+​    
+​    
 
 ​	**Force Buys**
 
