@@ -15,7 +15,7 @@
 
 ## What is CSGO
 
-- Counterstrike(CS) Global Offensive(CSGO) is the latest game in the Counterstrike series produced by Valve it follows on from CS Source and before that CS 1.6
+- Counter-Strike(CS) Global Offensive(CSGO) is the latest game in the Counter-Strike series produced by Valve it follows on from CS Source and before that CS 1.6
 
 ## Rules
 
