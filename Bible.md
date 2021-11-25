@@ -189,6 +189,19 @@ As well as this I will be paying attention to team based strats and calling whic
 | RAM | 2gb | 2gb |
 | Storage | 15Gb HDD | 15gb SSD |
 | GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 or AMD Radeon HD 6670 |
+| Monitor | 720p 60Hz | 1080p 60Hz |
+
+- These are the settings recommended by valve themselves, however this is just to get you to 60fps @1080p which is good enough for a beginner, however if you're serious about the game you will want to play higher
+
+| Component | 150fps                               | 300fps                                         |
+| --------- | ------------------------------------ | ---------------------------------------------- |
+| CPU       | Intel i3-8100 or AMD Ryzen 3 1200    | AMD Ryzen 5 5600x or Intel i5 10600k           |
+| RAM       | 16gb DDR4                            | 16gb DDR4                                      |
+| Storage   | 15gb SSD                             | 15gb PCIe SSD                                  |
+| GPU       | Nvidia GTX 1050 or AMD Radeon RX 460 | NVIDIA GeForce GTX 3060Ti or AMD Radeon 6700xt |
+| Monitor   | 1080p 144Hz                          | 1080p 144Hz                                    |
+
+*N.B these combinations are based on data from the community and may not get you the designated fps in practice*
 
 ## Video Settings
 
