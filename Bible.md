@@ -169,8 +169,6 @@ As well as this I will be paying attention to team based strats and calling whic
 | Intrusive Client          |          | &#x2611; |
 | Anti Cheat                | &#x2611; | &#x2611; |
 | Free Version              | &#x2611; |          |
-|                           |          |          |
-|                           |          |          |
 
 <!-- Other benefits, E.G fragshack, abusalbe RWS-->
 
