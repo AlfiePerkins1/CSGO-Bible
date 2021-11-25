@@ -131,34 +131,26 @@ As well as this I will be paying attention to team based strats and calling whic
   - When you first attempt to gain a rank in CSGO you will be playing Valve's own Matchmaking system which pairs players of a similiar rank together, more information about ranking in the section below.
   - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription.
   - Faceit:
- 
-| Advantages                | Disadvantages            |
-|---------------------------|--------------------------|
-| Faceit AC                 | Subscription             |
-| Higher skill cap          | Very poor non premium mm |
-| 128 tick servers          | Toxic in lower levels    |
-| Multiple server locations |                          |
-| Visible Elo               |                          |
-| Prizes to be won          |                          |
-| Faceit Hubs               |                          |
+    - Faceit is primarly played in EU 
+    - Has Pro leagues for most countries which feed into "Faceit Pro League", this is where all the EU pros play
+    - Can subscribe to hubs to allow you to play with only people in your region etc
+    - Can use either the client or the web version. 
+    - Uses ELO, the amount you get depends on average elo of your team and enemy team
+    - Two identical teams will receive +25 elo for winning and -25 for losing
+    - Infinite ranking system, the numerical system ends at Level 10 however your elo keeps increasing and you face players of similar elo
 
   - ESEA:
+    - Primarly played in NA, however because they offer team leagues that is used across the world
+    - Uses letter grades from D- to S+
+    - Clear pathway from new teams to tier 1 teams
+    - Open circuit tournements total $800,000 in prize money
+    - Top European and North American teams qualify for ESL Pro League
+    - 
 
-| Advantages                                 | Disadvantages            |
-|--------------------------------------------|--------------------------|
-| Simple client                              | Subscription             |
-| Higher skill cap                           | Intrusive client         |
-| 128 tick servers                           | Bitcoin scandal          |
-| Multiple server locations                  | No ladder system         |
-| League system                              | RWS System easily abused |
-| Scrim system                               |                          |
-| ESEA Open (and other levels)               |                          |
-| Reservedslot on fragshack with insider sub |                          |
-
-
+  - Comparison:
 |                           | Faceit   | ESEA     |
 |---------------------------|----------|----------|
-| Simple client             |          |          |
+| S1mple client             |          | &#x2611; |
 | Higher skill cap          | &#x2611; |          |
 | 128 tick servers          | &#x2611; | &#x2611; |
 | Multiple server locations | &#x2611; | &#x2611; |
@@ -169,6 +161,7 @@ As well as this I will be paying attention to team based strats and calling whic
 | Intrusive Client          |          | &#x2611; |
 | Anti Cheat                | &#x2611; | &#x2611; |
 | Free Version              | &#x2611; |          |
+| Visible Elo/Similiar		| &#x2611; | &#x2611; |
 
 <!-- Other benefits, E.G fragshack, abusalbe RWS-->
 
