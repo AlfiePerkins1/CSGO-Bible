@@ -235,7 +235,7 @@ As well as this I will be paying attention to team based strats and calling whic
    - This option is preffered by people who came from old CRT monitors or by those who find it easier to focus with black bars
 
 - This image describes what different aspect ratios look like:
-<img src="/Images/aspectratioimage.jpeg" width="400" height="400" />
+<img src="/Images/aspectratioimage.jpeg" width="800" height="400" />
 
 ### Resolution
 
