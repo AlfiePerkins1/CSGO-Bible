@@ -7,7 +7,7 @@
 
 [Introduction](#Introduction)
 
-[Settings](#Settings)
+[Settings](#Settings/Tech-Support)
 
 [Economy](#Economy)
 
@@ -24,6 +24,8 @@
 [Rotates](#Rotates)
 
 [Glossary](#Glossary)
+
+
 
 
 # Introduction
@@ -129,7 +131,7 @@ As well as this I will be paying attention to team based strats and calling whic
 ## Matchmaking Services
 
   - When you first attempt to gain a rank in CSGO you will be playing Valve's own Matchmaking system which pairs players of a similiar rank together, more information about ranking in the section below.
-  - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription.
+  - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription. The main two services are faceit and ESEA
   - Faceit:
     - Faceit is primarly played in EU 
     - Has Pro leagues for most countries which feed into "Faceit Pro League", this is where all the EU pros play
@@ -173,7 +175,16 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ## CSGO Level
 
-# Settings
+# Settings/Tech Support
+
+## Specs
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| CPU | Intel Core 2 Duo E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz AMD Phenom 8750 Triple-Core |
+| RAM | 2gb | 2gb |
+| Storage | 15Gb HDD | 15gb SSD |
+| GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 AMD Radeon HD 6670 |
 
 # Economy 
 
