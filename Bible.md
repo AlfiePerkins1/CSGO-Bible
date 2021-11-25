@@ -185,21 +185,21 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - **N.B These specs were written when the game came out and are now very out of date, more modern recommendations are found below**
 
-| Component | Minimum | Recommended |
+| Component | Minimum - Most likely won't even launch the game | Recommended - Use at own risk |
 |---|---|---|
 | CPU | Intel Core 2 Duo or E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz or AMD Phenom 8750 Triple-Core |
 | RAM | 2gb | 2gb |
-| Storage | 15Gb HDD | 15gb SSD |
+| Storage | 40Gb HDD | 40gb SSD |
 | GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 or AMD Radeon HD 6670 |
 | Monitor | 720p 60Hz | 1080p 60Hz |
 
-- These are the settings recommended by valve themselves, however this is just to get you to 60fps @1080p which is good enough for a beginner, however if you're serious about the game you will want to play higher
+- Below is recommended specs by the community that *should* make you achieve the fps targets as shown
 
 | Component | 150fps                               | 300fps                                         |
 | --------- | ------------------------------------ | ---------------------------------------------- |
 | CPU       | Intel i3-8100 or AMD Ryzen 3 1200    | AMD Ryzen 5 5600x or Intel i5 10600k           |
-| RAM       | 16gb DDR4                            | 16gb DDR4                                      |
-| Storage   | 15gb SSD                             | 15gb PCIe SSD                                  |
+| RAM       | 8gb DDR4                            | 16gb DDR4                                      |
+| Storage   | 40gb SSD                             | 40gb PCIe SSD                                  |
 | GPU       | Nvidia GTX 1050 or AMD Radeon RX 560 | NVIDIA GeForce GTX 3060Ti or AMD Radeon 6700xt |
 | Monitor   | 1080p 144Hz                          | 1080p 144Hz                                    |
 
@@ -208,7 +208,7 @@ As well as this I will be paying attention to team based strats and calling whic
 ## Video Settings
 
   - Unlike most games it is recommended to play CSGO on minimum settings in order to gain the most FPS possible
-  - However effects & shaders should be put as high as you can to allow you to see though molotovs better
+  - However shadows can be put on high to enable you to see enemies further away and from specific angles as well as use smoke lineups that rely on shadows
   - Multicore rendering should be enabled
 
 ## Resolution & Aspect Ratio
@@ -316,7 +316,11 @@ As well as this I will be paying attention to team based strats and calling whic
 ​	**Pistol**
 
   - Because glocks are better close range due to their increased movement accuracy and fire rate, it is better to burst out of a choke point and stay close range.
-  - 
+  - Example of these are:
+    - Contact[^ 3] B 
+    - Waterfall Palace
+      - One player stands ramp and smokes CT & flashes high over palace, as the flash pops 4 players jump out from palace forcing their way onto site and plant the bomb with the cover of the CT smoke.   
+    - Rush B with one player flashing over
 
 ​	**Force Buys**
 
@@ -333,6 +337,13 @@ As well as this I will be paying attention to team based strats and calling whic
 ### Inferno
 
 ​	**Pistol**
+
+  - Because glocks are better close range due to their increased movement accuracy and fire rate, it is better to burst out of a choke point and stay close range.
+  - Example of these are:
+    - Contact[^ 3] B 
+    - Waterfall A appartments
+      - T's make their way into appartments and stand on the left of the wall.    
+    - Rush B with one player flashing over
 
 ​	**Force Buys**
 
@@ -587,7 +598,8 @@ Collat[eral]
 Console
 > The devloper console in csgo, default key to open console is "~", found next to the 1 key. Here is where all console commands are executed. Needs to be enabled in settings first
 
-Contact
+[^ 3]: Contact
+
 > Term used to describe a strategy where the T's work there way as close to a bombsite as possible without using utility or being spotted. As soon as they are spotted they then explode out onto the site
 
 Cooldown
