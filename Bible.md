@@ -235,7 +235,7 @@ As well as this I will be paying attention to team based strats and calling whic
    - This option is preffered by people who came from old CRT monitors or by those who find it easier to focus with black bars
 
 - This image describes what different aspect ratios look like:
-<img src="/Images/aspectratioimage.jpeg" width="800" height="400" />
+<img src="/Images/aspectratioimage.jpeg" width="1000" height="400" /> [^ 2]
 
 ### Resolution
 
@@ -576,3 +576,4 @@ Crouch-Jump
 # Footnotes
 
 [^1]:https://escharts.com/tournaments/csgo/pgl-major-stockholm-2021
+[^ 2]: https://afkgaming.com/csgo/guide/7132-best-resolution-and-aspect-ratio-for-csgo-perfect-display-settings-2021 
