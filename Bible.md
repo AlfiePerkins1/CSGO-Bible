@@ -183,6 +183,8 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ## Specs
 
+- **N.B These specs were written when the game came out and are now very out of date, more modern recommendations are found below**
+
 | Component | Minimum | Recommended |
 |---|---|---|
 | CPU | Intel Core 2 Duo or E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz or AMD Phenom 8750 Triple-Core |
@@ -198,10 +200,10 @@ As well as this I will be paying attention to team based strats and calling whic
 | CPU       | Intel i3-8100 or AMD Ryzen 3 1200    | AMD Ryzen 5 5600x or Intel i5 10600k           |
 | RAM       | 16gb DDR4                            | 16gb DDR4                                      |
 | Storage   | 15gb SSD                             | 15gb PCIe SSD                                  |
-| GPU       | Nvidia GTX 1050 or AMD Radeon RX 460 | NVIDIA GeForce GTX 3060Ti or AMD Radeon 6700xt |
+| GPU       | Nvidia GTX 1050 or AMD Radeon RX 560 | NVIDIA GeForce GTX 3060Ti or AMD Radeon 6700xt |
 | Monitor   | 1080p 144Hz                          | 1080p 144Hz                                    |
 
-*N.B these combinations are based on data from the community and may not get you the designated fps in practice*
+*N.B these combinations are based on data from the community and may not get you the designated fps in practice and are from users on low settings*
 
 ## Video Settings
 
@@ -283,9 +285,15 @@ As well as this I will be paying attention to team based strats and calling whic
 - Due to the nature of CSGO the CT's always tend to be in a worse economic situation than the T's due to the game favouring them when economy is even (T's have to push into the CT's)
 
 
-### 	Pistol
+### Pistol
 
 - CT's start with $800 at the beginning of each half, typically you have 4/5 player purchase armour and 1 player purchasing a defuse kit. However most of the time 5 armoured CT's is much better.
+
+### Eco
+
+### Half Buy/Force
+
+### Full buy
 
 ## T
 
@@ -293,7 +301,11 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - T's also start with $800 at the beginning of each half, at low level all T's should purchase armour to mitigate aim punch when hit by a USP in the body, however it's not uncommon for one person to buy utility + P250 in order to help with pistol execs.
 
+### Eco
 
+### Half Buy/Force
+
+### Full buy
 
 # Tactics Beginner to Intermediate 
 
@@ -302,6 +314,9 @@ As well as this I will be paying attention to team based strats and calling whic
 ### Mirage
 
 ​	**Pistol**
+
+  - Because glocks are better close range due to their increased movement accuracy and fire rate, it is better to burst out of a choke point and stay close range.
+  - 
 
 ​	**Force Buys**
 
