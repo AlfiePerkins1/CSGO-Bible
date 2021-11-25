@@ -204,10 +204,10 @@ As well as this I will be paying attention to team based strats and calling whic
 | Large FOV | Lower FPS |
 |  | Smaller models |
 
-  - Standard resolution used by most modern monitors
-  - No out of the box changes required
-  - Lower FPS compared to 4:3
-  - 
+    - Standard resolution used by most modern monitors
+    - No out of the box changes required
+    - Lower FPS compared to 4:3
+    - 
 
   - **4:3 Stretched**
 
@@ -217,7 +217,7 @@ As well as this I will be paying attention to team based strats and calling whic
 | Enemies appear bigger | Models move faster |
 | | Requires additional setup |
 
-  - 4:3 stretched is identical to 4:3 black bars except everything is stretched to fit the screen
+    - 4:3 stretched is identical to 4:3 black bars except everything is stretched to fit the screen
 
   - **4:3 Black Bars**
 
@@ -226,9 +226,9 @@ As well as this I will be paying attention to team based strats and calling whic
 | Higher FPS | Smaller FOV |
 | Models don't move quicker | Same size models  |
 
-  - 4:3 black bars is identical to 16:9 except with a portion of your screen cut off 
-  - You have a smaller FOV however receive extra FPS compared to 16:9
-  - This option is preffered by people who came from old CRT monitors or by those who find it easier to focus with black bars
+    - 4:3 black bars is identical to 16:9 except with a portion of your screen cut off 
+    - You have a smaller FOV however receive extra FPS compared to 16:9
+    - This option is preffered by people who came from old CRT monitors or by those who find it easier to focus with black bars
 
 
 # Economy 
