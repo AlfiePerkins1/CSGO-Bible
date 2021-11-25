@@ -155,6 +155,25 @@ As well as this I will be paying attention to team based strats and calling whic
 | ESEA Open (and other levels)               |                          |
 | Reservedslot on fragshack with insider sub |                          |
 
+
+|                           | Faceit   | ESEA | CEVO |
+|---------------------------|----------|------|------|
+| Simple client             |          |      |      |
+| Higher skill cap          | &#x2611; |      |      |
+| 128 tick servers          | &#x2611; |      |      |
+| Multiple server locations | &#x2611; |      |      |
+| League system             | &#x2611; |      |      |
+| Scrim system              |          |      |      |
+| Team ladders              |          |      |      |
+| Ladder System             | &#x2611; |      |      |
+| Intrusive Client          |          |      |      |
+| Anti Cheat                | &#x2611; |      |      |
+| Free Version              | &#x2611; |      |      |
+|                           |          |      |      |
+|                           |          |      |      |
+
+<!-- Other benefits, E.G fragshack, abusalbe RWS-->
+
 ## Ranking system
 <!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked, different ranking for DZ, Wingman, Comp) -->
 
