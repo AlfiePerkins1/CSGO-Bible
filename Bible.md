@@ -1,4 +1,5 @@
 
+<a name="sqlalchemy-docs-1">[1]</a>:New in version 1.3: - AssociationProxy no longer stores any state specific to a particular parent class; the state is now stored in per-class AssociationProxyInstance objects.
 
 **N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated. To start with the maps I will be featuring will be Mirage/Overpass/Inferno/Dust2 . This is because I can't play Nuke to a high level, I've never played ancient and have minimal games of vertigo
 
@@ -459,3 +460,5 @@ Crouch-Jump
 # Footnotes
 
 <a id="Major Viewership " href="#note1ref"><sup>1</sup></a>https://escharts.com/tournaments/csgo/pgl-major-stockholm-2021
+
+<sup>[[1]](#alchemy-docs-1)</sup>
