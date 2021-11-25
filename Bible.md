@@ -195,7 +195,10 @@ As well as this I will be paying attention to team based strats and calling whic
 ## Resolution & Aspect Ratio
 
   - There are two schools of thoughts for CSGO aspect, either 16:9 or 4:3(*stretched or bb*)
+
   - What resolution & aspect ratio you chose should be a mix between what your PC can handle and personal preference
+
+    
 
  - **16:9**
 
@@ -205,8 +208,12 @@ As well as this I will be paying attention to team based strats and calling whic
 |  | Smaller models |
 
    - Standard resolution used by most modern monitors
+
    - No out of the box changes required
+
    - Lower FPS compared to 4:3 
+
+     
 
  - **4:3 Stretched**
 
@@ -217,6 +224,8 @@ As well as this I will be paying attention to team based strats and calling whic
 | | Requires additional setup |
 
    - 4:3 stretched is identical to 4:3 black bars except everything is stretched to fit the screen
+
+     
 
  - **4:3 Black Bars**
 
