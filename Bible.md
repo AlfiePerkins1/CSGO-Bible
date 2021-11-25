@@ -148,6 +148,7 @@ As well as this I will be paying attention to team based strats and calling whic
     - 
 
   - Comparison:
+
 |                           | Faceit   | ESEA     |
 |---------------------------|----------|----------|
 | S1mple client             |          | &#x2611; |
