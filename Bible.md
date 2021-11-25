@@ -47,7 +47,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - It is a multiplayer first person shooter. In puts two teams(Terrorist & Counter Terrorist) against in each other in a variety of objective based game modes. 
 
-- The game has an active e-sports scene with the latest major being [PGL Stockholm 2021 which was won by Na'Vi against G2 in a Bo3](https://liquipedia.net/counterstrike/PGL/2021/Stockholm) which received 2.7million peak viewers<a href="#note1" id="Major Viewership"><sup>1</sup></a>
+- The game has an active e-sports scene with the latest major being [PGL Stockholm 2021 which was won by Na'Vi against G2 in a Bo3](https://liquipedia.net/counterstrike/PGL/2021/Stockholm) which received 2.7million peak viewers<a href="#note1ref" id="Major Viewership"><sup>1</sup></a>
 
   
 
