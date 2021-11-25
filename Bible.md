@@ -1,6 +1,6 @@
 
 
-**N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated.
+**N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated. To start with the maps I will be featuring will be Mirage/Overpass/Inferno/Dust2 . This is because I can't play Nuke to a high level, I've never played ancient and have minimal games of vertigo
 
 **Feedback can be made by starting a [*New Issue*](https://github.com/AlfiePerkins1/CSGO-Bible/issues/new/choose) on the GitHub page or by messaging me on discord**
 
@@ -359,13 +359,13 @@ A4
 
 AC
 > Anticheat, this is a program used to detect cheating, can be third party (Faceit AC, EasyAC) or built in (Valve AntiCheat (VAC)) 
- 
+
 Ace
 > When a player gets all 5 enemy kills in a single round
 
 ADR 
 > Average Damage per Round, a numeric value that shows how much damage a player does on average each round(higher is better)
- 
+
 Aimbot
 > A type of cheating which aims and shoots for the user, using aimbot will get you VAC banned
 
@@ -413,4 +413,38 @@ Burst
 
 Buy round
 > Where a team has enough money to purchase everything they need including utility
+
+## C
+
+Care
+> Short for "take care" used to warn teamates of a possible enemy in a certain position, E.G "Care Van"
+
+Carry
+> Typically used to describe where 1/2 players on one team are outperforming their teamates by a considerable margin
+
+Clutch
+> Where 1 player is put in a situation where he is against 1+ enemies and attempts to win the round
+
+Collat[eral]
+> Killing 2 or more enemies with a single bullet
+
+Console
+> The devloper console in csgo, default key to open console is "~", found next to the 1 key. Here is where all console commands are executed. Needs to be enabled in settings first
+
+Contact
+> Term used to describe a strategy where the T's work there way as close to a bombsite as possible without using utility or being spotted. As soon as they are spotted they then explode out onto the site
+
+Cooldown
+> A period in which a player is unable to play competititve matches. During a new players placement games (first 10 wins) after every 2 wins a player receives a 24 hour cooldown **THIS IS NOT A BAN**
+
+Counter-Strafe
+> Where the player presses the opposite key to the way they're moving (I.E if moving left then they press D) in order to reset their velocity (movement speed) to 0 to allow them to shoot with near perfect accuracy.
+
+Crossfire
+> Where two+ teamates are positioned in a way that makes it impossible for an enemy to clear both angles one after the other. 
+
+Crouch-Jump
+> Jumping and crouching at the same time in order to jump as high as possible and reach some jumps that are otherwise unreachable
+
+
 
