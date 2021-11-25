@@ -131,7 +131,11 @@ As well as this I will be paying attention to team based strats and calling whic
 ## Matchmaking Services
 
   - When you first attempt to gain a rank in CSGO you will be playing Valve's own Matchmaking system which pairs players of a similiar rank together, more information about ranking in the section below.
+
   - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription. The main two services are faceit and ESEA
+
+    <!-- 128 vs 64 https://www.youtube.com/watch?v=OIGM6s-tJZE -->
+
   - Faceit:
     - Faceit is primarly played in EU 
     - Has Pro leagues for most countries which feed into "Faceit Pro League", this is where all the EU pros play
@@ -199,7 +203,6 @@ As well as this I will be paying attention to team based strats and calling whic
   - What resolution & aspect ratio you chose should be a mix between what your PC can handle and personal preference
 
 ### Aspect Ratio
-<br/><br/>
  - **16:9**
 
 | Pros | Cons |
