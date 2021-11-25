@@ -156,21 +156,21 @@ As well as this I will be paying attention to team based strats and calling whic
 | Reservedslot on fragshack with insider sub |                          |
 
 
-|                           | Faceit   | ESEA | CEVO |
-|---------------------------|----------|------|------|
-| Simple client             |          |      |      |
-| Higher skill cap          | &#x2611; |      |      |
-| 128 tick servers          | &#x2611; |      |      |
-| Multiple server locations | &#x2611; |      |      |
-| League system             | &#x2611; |      |      |
-| Scrim system              |          |      |      |
-| Team ladders              |          |      |      |
-| Ladder System             | &#x2611; |      |      |
-| Intrusive Client          |          |      |      |
-| Anti Cheat                | &#x2611; |      |      |
-| Free Version              | &#x2611; |      |      |
-|                           |          |      |      |
-|                           |          |      |      |
+|                           | Faceit   | ESEA     |
+|---------------------------|----------|----------|
+| Simple client             |          |          |
+| Higher skill cap          | &#x2611; |          |
+| 128 tick servers          | &#x2611; | &#x2611; |
+| Multiple server locations | &#x2611; | &#x2611; |
+| League system             | &#x2611; | &#x2611; |
+| Scrim system              |          | &#x2611; |
+| Team ladders              |          | &#x2611; |
+| Ladder System             | &#x2611; |          |
+| Intrusive Client          |          | &#x2611; |
+| Anti Cheat                | &#x2611; | &#x2611; |
+| Free Version              | &#x2611; |          |
+|                           |          |          |
+|                           |          |          |
 
 <!-- Other benefits, E.G fragshack, abusalbe RWS-->
 
