@@ -131,7 +131,8 @@ As well as this I will be paying attention to team based strats and calling whic
   - When you first attempt to gain a rank in CSGO you will be playing Valve's own Matchmaking system which pairs players of a similiar rank together, more information about ranking in the section below.
   - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription.
   - Faceit:
-    | Advantages                | Disadvantages            |
+ 
+| Advantages                | Disadvantages            |
 |---------------------------|--------------------------|
 | Faceit AC                 | Subscription             |
 | Higher skill cap          | Very poor non premium mm |
