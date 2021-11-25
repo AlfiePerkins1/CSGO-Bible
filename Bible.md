@@ -181,7 +181,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 | Component | Minimum | Recommended |
 |---|---|---|
-| CPU | Intel Core 2 Duo E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz or AMD Phenom 8750 Triple-Core |
+| CPU | Intel Core 2 Duo or E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz or AMD Phenom 8750 Triple-Core |
 | RAM | 2gb | 2gb |
 | Storage | 15Gb HDD | 15gb SSD |
 | GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 or AMD Radeon HD 6670 |
@@ -194,28 +194,41 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ## Resolution & Aspect Ratio
 
-  - There are two schools of thoughts for CSGO resolutions, either 16:9 or 4:3(*stretched or bb*)
+  - There are two schools of thoughts for CSGO aspect, either 16:9 or 4:3(*stretched or bb*)
+  - What resolution & aspect ratio you chose should be a mix between what your PC can handle and personal preference
 
-  - 16:9
+  - **16:9**
 
 | Pros | Cons |
 |---|---|
 | Large FOV | Lower FPS |
 |  | Smaller models |
 
-  - 4:3 Stretched
+  - Standard resolution used by most modern monitors
+  - No out of the box changes required
+  - Lower FPS compared to 4:3
+  - 
+
+  - **4:3 Stretched**
 
 | Pros | Cons |
 |---|---|
 | Higher FPS | Smaller FOV |
 | Enemies appear bigger | Models move faster |
+| | Requires additional setup |
 
-  - 4:3 Black Bars
+  - 4:3 stretched is identical to 4:3 black bars except everything is stretched to fit the screen
+
+  - **4:3 Black Bars**
 
 | Pros | Cons |
 |---|---|
 | Higher FPS | Smaller FOV |
 | Models don't move quicker | Same size models  |
+
+  - 4:3 black bars is identical to 16:9 except with a portion of your screen cut off 
+  - You have a smaller FOV however receive extra FPS compared to 16:9
+  - This option is preffered by people who came from old CRT monitors or by those who find it easier to focus with black bars
 
 
 # Economy 
