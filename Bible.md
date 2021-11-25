@@ -181,10 +181,42 @@ As well as this I will be paying attention to team based strats and calling whic
 
 | Component | Minimum | Recommended |
 |---|---|---|
-| CPU | Intel Core 2 Duo E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz AMD Phenom 8750 Triple-Core |
+| CPU | Intel Core 2 Duo E660 AMD Phenom X3 8750 | Intel Pentium Dual-Core E5700 3GHz or AMD Phenom 8750 Triple-Core |
 | RAM | 2gb | 2gb |
 | Storage | 15Gb HDD | 15gb SSD |
-| GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 AMD Radeon HD 6670 |
+| GPU | 256mb & DirectX 9 compatible | NVIDIA GeForce GT 630 or AMD Radeon HD 6670 |
+
+## Video Settings
+
+  - Unlike most games it is recommended to play CSGO on minimum settings in order to gain the most FPS possible
+  - However effects & shaders should be put as high as you can to allow you to see though molotovs better
+  - Multicore rendering should be enabled
+
+## Resolution & Aspect Ratio
+
+  - There are two schools of thoughts for CSGO resolutions, either 16:9 or 4:3(*stretched or bb*)
+
+  - 16:9
+
+| Pros | Cons |
+|---|---|
+| Large FOV | Lower FPS |
+|  | Smaller models |
+
+  - 4:3 Stretched
+
+| Pros | Cons |
+|---|---|
+| Higher FPS | Smaller FOV |
+| Enemies appear bigger | Models move faster |
+
+  - 4:3 Black Bars
+
+| Pros | Cons |
+|---|---|
+| Higher FPS | Smaller FOV |
+| Models don't move quicker | Same size models  |
+
 
 # Economy 
 
