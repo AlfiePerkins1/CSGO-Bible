@@ -128,6 +128,19 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ## Matchmaking Services
 
+  - When you first attempt to gain a rank in CSGO you will be playing Valve's own Matchmaking system which pairs players of a similiar rank together, more information about ranking in the section below.
+  - There is also third party matchmaking services which offer different benefits over valves standard matchmaking however often require a subscription.
+  - Faceit:
+    | Advantages                | Disadvantages            |
+|---------------------------|--------------------------|
+| Faceit AC                 | Subscription             |
+| Higher skill cap          | Very poor non premium mm |
+| 128 tick servers          |                          |
+| Multiple server locations |                          |
+| Visible Elo               |                          |
+| Prizes to be won          |                          |
+| Faceit Hubs               |                          |
+
 ## Ranking system
 <!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked, different ranking for DZ, Wingman, Comp) -->
 
