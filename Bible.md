@@ -136,11 +136,24 @@ As well as this I will be paying attention to team based strats and calling whic
 |---------------------------|--------------------------|
 | Faceit AC                 | Subscription             |
 | Higher skill cap          | Very poor non premium mm |
-| 128 tick servers          |                          |
+| 128 tick servers          | Toxic in lower levels    |
 | Multiple server locations |                          |
 | Visible Elo               |                          |
 | Prizes to be won          |                          |
 | Faceit Hubs               |                          |
+
+  - ESEA:
+
+| Advantages                                 | Disadvantages            |
+|--------------------------------------------|--------------------------|
+| Simple client                              | Subscription             |
+| Higher skill cap                           | Intrusive client         |
+| 128 tick servers                           | Bitcoin scandal          |
+| Multiple server locations                  | No ladder system         |
+| League system                              | RWS System easily abused |
+| Scrim system                               |                          |
+| ESEA Open (and other levels)               |                          |
+| Reservedslot on fragshack with insider sub |                          |
 
 ## Ranking system
 <!-- Unkown, win to rankup, list ranks, list percentages as of now, 10 wins to get a rank, cooldown after 2 wins unranked, different ranking for DZ, Wingman, Comp) -->
