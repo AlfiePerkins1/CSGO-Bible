@@ -576,4 +576,4 @@ Crouch-Jump
 # Footnotes
 
 [^1]:https://escharts.com/tournaments/csgo/pgl-major-stockholm-2021
-[^ 2]: https://afkgaming.com/csgo/guide/7132-best-resolution-and-aspect-ratio-for-csgo-perfect-display-settings-2021 
+[^2]: https://afkgaming.com/csgo/guide/7132-best-resolution-and-aspect-ratio-for-csgo-perfect-display-settings-2021 
