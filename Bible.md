@@ -197,9 +197,7 @@ As well as this I will be paying attention to team based strats and calling whic
   - There are two schools of thoughts for CSGO aspect, either 16:9 or 4:3(*stretched or bb*)
 
   - What resolution & aspect ratio you chose should be a mix between what your PC can handle and personal preference
-
 <br/><br/>
-
  - **16:9**
 
 | Pros | Cons |
@@ -212,9 +210,7 @@ As well as this I will be paying attention to team based strats and calling whic
    - No out of the box changes required
 
    - Lower FPS compared to 4:3 
-
 <br/><br/>
-
  - **4:3 Stretched**
 
 | Pros | Cons |
@@ -224,9 +220,7 @@ As well as this I will be paying attention to team based strats and calling whic
 | | Requires additional setup |
 
    - 4:3 stretched is identical to 4:3 black bars except everything is stretched to fit the screen
-
 <br/><br/>
-
  - **4:3 Black Bars**
 
 | Pros | Cons |
