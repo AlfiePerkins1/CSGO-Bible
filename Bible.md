@@ -309,7 +309,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 # Tactics Beginner to Intermediate 
 
-## Basic T side strategies & setups
+## T side strategies & setups
 
 ### Mirage
 
@@ -357,7 +357,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ​	**Gun Rounds**
 
-## Basic CT side strategies & setups
+## CT side strategies & setups
 
 ### Mirage
 
@@ -407,7 +407,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 # Tactics Intermediate to Advanced
 
-## Basic T side strategies & setups
+## T side strategies & setups
 
 ### Mirage
 
@@ -441,7 +441,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ​	**Gun Rounds**
 
-## Basic CT side strategies & setups
+## CT side strategies & setups
 
 ### Mirage
 
@@ -470,6 +470,8 @@ As well as this I will be paying attention to team based strats and calling whic
 ​	**Force Buys**
 
 ​	**Gun Rounds**
+
+  - Inferno Retake
 
 ### Dust 2
 
