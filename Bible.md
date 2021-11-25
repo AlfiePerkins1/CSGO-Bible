@@ -45,6 +45,14 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - Counter-Strike(CS) Global Offensive(CSGO) is the latest game in the Counter-Strike series produced by Valve it follows on from CS Source and before that CS 1.6
 
+- It is a multiplayer first person shooter. In puts two teams(Terrorist & Counter Terrorist) against in each other in a variety of objective based game modes. 
+
+- The game has an active e-sports scene with the latest major being 
+
+  [PGL Stockholm 2021]: https://liquipedia.net/counterstrike/PGL/2021/Stockholm	"PGL Stockholm 2021"
+
+  which was won by Na'Vi against G2 in a Bo3
+
 ## Game modes
 
 - CSGO has 9 official gamemodes [Reference](https://www.metabomb.net/csgo/gameplay-guides/csgo-game-modes-guide "Reference"):
@@ -358,7 +366,7 @@ A4
 > Shorthand for the M4A4
 
 AC
-> Anticheat, this is a program used to detect cheating, can be third party (Faceit AC, EasyAC) or built in (Valve AntiCheat (VAC)) 
+> Anticheat, this is a program used to detect cheating, can be third party (Faceit AC, EasyAC) or built in (Valve Anticheat (VAC)) 
 
 Ace
 > When a player gets all 5 enemy kills in a single round
@@ -441,7 +449,7 @@ Counter-Strafe
 > Where the player presses the opposite key to the way they're moving (I.E if moving left then they press D) in order to reset their velocity (movement speed) to 0 to allow them to shoot with near perfect accuracy.
 
 Crossfire
-> Where two+ teamates are positioned in a way that makes it impossible for an enemy to clear both angles one after the other. 
+> Where two+ teammates are positioned in a way that makes it impossible for an enemy to clear both angles one after the other. 
 
 Crouch-Jump
 > Jumping and crouching at the same time in order to jump as high as possible and reach some jumps that are otherwise unreachable
