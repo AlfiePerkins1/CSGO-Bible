@@ -1,8 +1,8 @@
 
-<<<<<<< HEAD
+
 **N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated. To start with the maps I will be featuring will be Mirage/Overpass/Inferno/Dust2 . This is because I can't play Nuke to a high level, I've never played ancient and have minimal games of vertigo
 
-=======
+
 
 **Feedback can be made by starting a [*New Issue*](https://github.com/AlfiePerkins1/CSGOBible/issues/new/choose) on the GitHub page or by messaging me on discord**
 
