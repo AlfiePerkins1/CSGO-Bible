@@ -522,6 +522,7 @@ As well as this I will be paying attention to team based strats and calling whic
     - 3. Move your mouse over "manage"
     - 4. Click "Uninstall"
     - 5. And then click "uninstall again"
+  - And then reinstall the next day
 
 # Glossary
 
