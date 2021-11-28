@@ -514,7 +514,14 @@ As well as this I will be paying attention to team based strats and calling whic
 
 # Rotates
 
+# Uninstalling
 
+  - Arguabley one of the biggest parts of CSGO is what you do when you lose a game:
+    - 1. Navigate to your steam library
+    - 2. Right click on CSGO
+    - 3. Move your mouse over "manage"
+    - 4. Click "Uninstall"
+    - 5. And then click "uninstall again"
 
 # Glossary
 
