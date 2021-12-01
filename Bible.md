@@ -280,6 +280,8 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - The economy in CSGO is one of the most important aspects of the game, without good economical understanding you will be at a severe disadvantage. 
 - As of 2021 each side starts with $800 at the beginning of each half and every player should always buy armour *unless in a team scenario but if you're reading this guide that's most likely not you*
+- The maximum money one player can have is $16,000 
+- The economy may be complicated at first however as with anything it becomes simpler with time and rarely needs to be tracked exactly
 
 ## Income
 
@@ -310,6 +312,30 @@ As well as this I will be paying attention to team based strats and calling whic
 | Elimination Win       | $3250                 |
 | Timeout win           | $3250                 |
 | Bomb defuse win       | $3500                 |
+
+### Event specific income
+
+| Event                      | Money Received        |
+| -------------------------- | --------------------- |
+| **TERROISTS**              | **TERROISTS**         |
+| Loss with bomb plant       | +$800                 |
+| Bomb plant (individual)    | +$300                 |
+| Time out loss (individual) | $0 (total)            |
+| **COUNTER TERROISTS**      | **COUNTER TERROISTS** |
+| Bomb defusal (individual)  | +$300                 |
+
+### Weapon kill rewards
+
+- Each type of weapon gives a different reward per kill 
+
+| Weapon                 | Reward ($) |
+| ---------------------- | ---------- |
+| SMG (-P90)             | $600       |
+| Shotgun                | $900       |
+| AWP                    | $100       |
+| Knife                  | $1500      |
+| Any other weapon(+P90) | $300       |
+| Team kill              | -$1500     |
 
 
 
