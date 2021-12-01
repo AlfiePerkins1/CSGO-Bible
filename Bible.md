@@ -356,7 +356,8 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ### Half Buy/Force
 
-
+- This is where you buy either armour + upgraded pistol/SMG/Scout
+- But you must always maintain the ability to buy fully next round (unless in a double eco[^ 5])
 
 ### Full buy
 
@@ -371,6 +372,12 @@ As well as this I will be paying attention to team based strats and calling whic
 ### Half Buy/Force
 
 ### Full buy
+
+### Exceptions
+
+[^5]: Double Eco: Where after losing a round players have $1500-1800, even if they eco they won't be able to full buy next round so they force buy (armour + pistol/ scout no armour) and then eco the next round and full buy on the third round.
+
+
 
 # Tactics Beginner to Intermediate 
 
@@ -674,6 +681,7 @@ Console
 > The devloper console in csgo, default key to open console is "~", found next to the 1 key. Here is where all console commands are executed. Needs to be enabled in settings first
 
 [^ 3]: Contact
+Contact
 
 > Term used to describe a strategy where the T's work there way as close to a bombsite as possible without using utility or being spotted. As soon as they are spotted they then explode out onto the site
 
