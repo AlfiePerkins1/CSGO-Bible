@@ -286,6 +286,8 @@ As well as this I will be paying attention to team based strats and calling whic
 ### Loss Bonus
 
 - The losing team receives more money each round they lose in order to help them buy into the following rounds increase the chance of a comeback
+- Each loss moves you up the ladder (1->2->3 etc), up to a max of 5 ($3400)
+- Each win moves you down the ladder (5->4->3 etc), to a minimum of 0($0)
 
 | Consecutive Loss | Money Received |
 | ---------------- | -------------- |
@@ -296,6 +298,21 @@ As well as this I will be paying attention to team based strats and calling whic
 | 5                | $3400          |
 
 [^4]
+
+### Round  Win Income
+
+| Event                 | Money Received        |
+| --------------------- | --------------------- |
+| **TERROISTS**         | **TERROISTS**         |
+| Elimination Win       | $3250                 |
+| Bomb detonation win   | $3500                 |
+| **COUNTER TERROISTS** | **COUNTER TERROISTS** |
+| Elimination Win       | $3250                 |
+| Timeout win           | $3250                 |
+| Bomb defuse win       | $3500                 |
+
+
+
 
 ## CT 
 
