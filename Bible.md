@@ -1,6 +1,6 @@
 
 
-**N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated. To start with the maps I will be featuring will be Mirage/Overpass/Inferno/Dust2 . This is because I can't play Nuke to a high level, I've never played ancient and have minimal games of vertigo
+**N.B** This is entirely Work in progress, sections will be changed/removed/added in due course. I'm aiming to make this guide as good as possible so all feedback is appreciated. To start with the maps I will be featuring will be Mirage/Overpass/Inferno/Dust2 . This is because I can't play Nuke to a high level, I've never played ancient and have minimal games of vertigo, also the cover image/social media image of this guide is directly from the CSGO source code
 
 
 
