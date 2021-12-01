@@ -680,7 +680,7 @@ Collat[eral]
 Console
 > The devloper console in csgo, default key to open console is "~", found next to the 1 key. Here is where all console commands are executed. Needs to be enabled in settings first
 
-[^ 3]: Contact
+[^ 3]: Contact 
 Contact
 
 > Term used to describe a strategy where the T's work there way as close to a bombsite as possible without using utility or being spotted. As soon as they are spotted they then explode out onto the site
