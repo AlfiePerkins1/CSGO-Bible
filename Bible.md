@@ -281,7 +281,21 @@ As well as this I will be paying attention to team based strats and calling whic
 - The economy in CSGO is one of the most important aspects of the game, without good economical understanding you will be at a severe disadvantage. 
 - As of 2021 each side starts with $800 at the beginning of each half and every player should always buy armour *unless in a team scenario but if you're reading this guide that's most likely not you*
 
+## Income
 
+### Loss Bonus
+
+- The losing team receives more money each round they lose in order to help them buy into the following rounds increase the chance of a comeback
+
+| Consecutive Loss | Money Received |
+| ---------------- | -------------- |
+| 1                | $1400          |
+| 2                | $1900          |
+| 3                | $2400          |
+| 4                | $2900          |
+| 5                | $3400          |
+
+[^4]
 
 ## CT 
 
@@ -294,7 +308,12 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ### Eco
 
+- Where nothing is bought in order to be able to buy next round (≈ $5500 for T's & ≈ 6000 for CT's)
+- In certain circumstances one player may have more money that his team and can drop upgraded pistols, as long as he maintains his ability to full buy next round.
+
 ### Half Buy/Force
+
+
 
 ### Full buy
 
@@ -616,7 +635,7 @@ Console
 > Term used to describe a strategy where the T's work there way as close to a bombsite as possible without using utility or being spotted. As soon as they are spotted they then explode out onto the site
 
 Cooldown
-> A period in which a player is unable to play competititve matches. During a new players placement games (first 10 wins) after every 2 wins a player receives a 24 hour cooldown **THIS IS NOT A BAN**
+> A period in which a player is unable to play competitive matches. During a new players placement games (first 10 wins) after every 2 wins a player receives a 24 hour cooldown **THIS IS NOT A BAN**
 
 Counter-Strafe
 > Where the player presses the opposite key to the way they're moving (I.E if moving left then they press D) in order to reset their velocity (movement speed) to 0 to allow them to shoot with near perfect accuracy.
@@ -633,3 +652,4 @@ Crouch-Jump
 
 [^1]:https://escharts.com/tournaments/csgo/pgl-major-stockholm-2021
 [^2]: https://afkgaming.com/csgo/guide/7132-best-resolution-and-aspect-ratio-for-csgo-perfect-display-settings-2021 
+[^4]: https://news.unikrn.com/article/csgo-economy-guide-money-management-ct-t-terrorists-kill-bonus-win-loss-s_rs
