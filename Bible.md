@@ -351,7 +351,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ### Eco
 
-- Where nothing is bought in order to be able to buy next round (≈ $5500 for T's & ≈ 6000 for CT's)
+- Where nothing is bought in order to be able to buy next round (≈ 6000 for CT's)
 - In certain circumstances one player may have more money that his team and can drop upgraded pistols, as long as he maintains his ability to full buy next round.
 
 ### Half Buy/Force
@@ -361,6 +361,11 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ### Full buy
 
+- Main Rifle: M4A1s/M4A4/AWP
+- Secondary pistol if awping: (P250, 5-7, Deagle)
+- Utility: Incendiary (situational), smoke, 2 flashes, grenade (situational)[^ Mirage],[^ Inferno],[^Overpass],[^Dust2] 
+- Armour(if T's all have AK's *I.E Their full buy* then you don't need to buy a helmet as 1 ak headshot will instakill)
+
 ## T
 
 ### Pistol
@@ -369,9 +374,21 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ### Eco
 
+- Where nothing is bought in order to be able to buy next round (≈ $5500 for T's &)
+- In certain circumstances one player may have more money that his team and can drop upgraded pistols, as long as he maintains his ability to full buy next round.
+
 ### Half Buy/Force
 
+- This is where you buy either armour + upgraded pistol/SMG/Scout
+- But you must always maintain the ability to buy fully next round (unless in a double eco[^ 5])
+- However double eco's make less sense on T side due to the reduced cost of weapons and utility. This situation is only met where $0 income is received from previous round.
+
 ### Full buy
+
+- Main Rifle: AK47/AWP
+- Secondary pistol if awping: (P250, tec-9, Deagle)
+- Utility: Incendiary, smoke, 2 flashes, grenade [^Utility]
+- Full armour (Body + Head)
 
 ### Exceptions
 
@@ -398,6 +415,8 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ​	**Gun Rounds**
 
+[^Mirage]: NADE USAGE
+
 ### Overpass
 
 ​	**Pistol**
@@ -405,6 +424,8 @@ As well as this I will be paying attention to team based strats and calling whic
 ​	**Force Buys**
 
 ​	**Gun Rounds**
+
+[^Overpass]: NADE USAGE
 
 ### Inferno
 
@@ -421,6 +442,8 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ​	**Gun Rounds**
 
+[^Inferno]: NADE USAGE
+
 ### Dust 2
 
 ​	**Pistol**
@@ -428,6 +451,8 @@ As well as this I will be paying attention to team based strats and calling whic
 ​	**Force Buys**
 
 ​	**Gun Rounds**
+
+[^Dust2]: NADE USAGE
 
 ## CT side strategies & setups
 
@@ -578,14 +603,26 @@ As well as this I will be paying attention to team based strats and calling whic
 
 ## Utility
 
-
 # Loadouts
+
+
+
+## Utility
+
+[^Utility]: 
+
+- Since only 4 pieces of utility can be held at one time the combination you buy is affected by a variety of factors:
+  - Position playing
+  - Role
+  - Previous habits of the enemy team
+  - Strat for current round
+  - T/CT side
 
 # Rotates
 
 # Uninstalling
 
-  - Arguabley one of the biggest parts of CSGO is what you do when you lose a game:
+  - Arguably one of the biggest parts of CSGO is what you do when you lose a game:
     - 1. Navigate to your steam library
     - 2. Right click on CSGO
     - 3. Move your mouse over "manage"
