@@ -206,7 +206,9 @@ As well as this I will be paying attention to team based strats and calling whic
 | GPU       | Nvidia GTX 1050 or AMD Radeon RX 560 | NVIDIA GeForce GTX 3060Ti or AMD Radeon 6700xt |
 | Monitor   | 1080p 144Hz                          | 1080p 144Hz                                    |
 
-*N.B these combinations are based on data from the community and may not get you the designated fps in practice and are from users on low settings*
+*N.B these combinations are based on data from the community and may not get you the designated fps in practice and are from users on low settings & alterations can be made to match your requirements*
+
+
 
 ## Video Settings
 
