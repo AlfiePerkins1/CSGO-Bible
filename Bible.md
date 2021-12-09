@@ -198,7 +198,7 @@ As well as this I will be paying attention to team based strats and calling whic
 
 - Below is recommended specs by the community that *should* make you achieve the fps targets as shown
 
-| Component | 150fps                               | 300fps                                         |
+| Component | 150fps                               | 300fps+                                        |
 | --------- | ------------------------------------ | ---------------------------------------------- |
 | CPU       | Intel i3-8100 or AMD Ryzen 3 1200    | AMD Ryzen 5 5600x or Intel i5 10600k           |
 | RAM       | 8gb DDR4                            | 16gb DDR4                                      |
